@@ -1,4 +1,10 @@
 ---
 label: Apps
 hide_body: false
-fields: []
+fields:
+- name: rer
+  type: text
+  config:
+    required: false
+  label: rer
+  description: rererer
