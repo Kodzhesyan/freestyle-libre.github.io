@@ -1,5 +1,0 @@
-baseURL = 'https://freestyle-libre.pp.ua/'
-languageCode = 'uk'
-title = 'Фрістайл Лібре Україна'
-theme = 'PaperMod'
-paginate = '5'
