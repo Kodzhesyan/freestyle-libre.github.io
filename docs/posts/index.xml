@@ -8,12 +8,12 @@
     <language>uk</language>
     <lastBuildDate>Tue, 14 Nov 2023 03:43:01 +0200</lastBuildDate><atom:link href="https://freestyle-libre.pp.ua/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Examplepost</title>
+      <title>Установка темы</title>
       <link>https://freestyle-libre.pp.ua/posts/examplepost/</link>
       <pubDate>Tue, 14 Nov 2023 03:43:01 +0200</pubDate>
       
       <guid>https://freestyle-libre.pp.ua/posts/examplepost/</guid>
-      <description>Установка темы &amp;rsquo;&amp;rsquo;&amp;rsquo; git submodule add https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod &amp;ndash;depth=1 &amp;rsquo;&#39;&#39;</description>
+      <description>git submodule add https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod --depth=1 </description>
     </item>
     
   </channel>
