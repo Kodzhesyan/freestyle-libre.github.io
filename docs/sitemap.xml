@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/posts/examplepost/</loc>
+    <loc>https://freestyle-libre.pp.ua/posts/examplepost/</loc>
     <lastmod>2023-11-14T03:43:01+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://freestyle-libre.pp.ua/</loc>
     <lastmod>2023-11-14T03:43:01+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://freestyle-libre.pp.ua/posts/</loc>
     <lastmod>2023-11-14T03:43:01+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://freestyle-libre.pp.ua/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://freestyle-libre.pp.ua/tags/</loc>
   </url>
 </urlset>
