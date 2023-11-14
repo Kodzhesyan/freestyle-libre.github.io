@@ -16,23 +16,5 @@
       <description>Застосунки для сенсорів Фрістайл Лібре-2 link</description>
     </item>
     
-    <item>
-      <title>Налаштунки теми PaperMod</title>
-      <link>https://freestyle-libre.pp.ua/posts/examplepost2/</link>
-      <pubDate>Tue, 14 Nov 2023 04:45:35 +0200</pubDate>
-      
-      <guid>https://freestyle-libre.pp.ua/posts/examplepost2/</guid>
-      <description>&amp;lsquo;https://github.com/adityatelange/hugo-PaperMod/wiki/Features#home-info-mode&#39;</description>
-    </item>
-    
-    <item>
-      <title>Встановлення теми</title>
-      <link>https://freestyle-libre.pp.ua/posts/examplepost/</link>
-      <pubDate>Tue, 14 Nov 2023 03:43:01 +0200</pubDate>
-      
-      <guid>https://freestyle-libre.pp.ua/posts/examplepost/</guid>
-      <description>git submodule add https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod --depth=1 </description>
-    </item>
-    
   </channel>
 </rss>
