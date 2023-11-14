@@ -24,9 +24,15 @@ url = "/tags/"
 weight = 20
 
 [[menu.main]]
-identifier = "example"
+identifier = "diaexpert.ua"
 name = "diaexpert.ua"
 url = "https://diaexpert.ua/product-category/monitoring-uk/"
 weight = 30
+
+[[menu.main]]
+identifier = "nightscout"
+name = "Nightscout"
+url = "https://nightscout.pp.ua/"
+weight = 40
 
 
