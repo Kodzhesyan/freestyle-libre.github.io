@@ -5,21 +5,9 @@ theme = 'PaperMod'
 publishDir = 'docs'
 
 [params]
-defaultTheme = "auto"
+defaultTheme = 'auto'
 
 [params.homeInfoParams]
-Title = "Hi there wave"
-Content = "Can be Info, links, about..."
-
-[outputs]
-home = [ "HTML", "RSS", "JSON" ]
-
-[params]
-ShowShareButtons = true
-
-[Params]
-ShowReadingTime = true
-
-[params]
-ShowBreadCrumbs = true
+Title = 'Hi there wave'
+Content = 'Can be Info, links, about...'
 
