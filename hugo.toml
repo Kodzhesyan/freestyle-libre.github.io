@@ -25,8 +25,8 @@ weight = 20
 
 [[menu.main]]
 identifier = "example"
-name = "example.org"
-url = "https://example.org"
+name = "diaexpert.ua"
+url = "https://diaexpert.ua/product-category/monitoring-uk/"
 weight = 30
 
 
