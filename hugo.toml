@@ -8,8 +8,8 @@ publishDir = 'docs'
 defaultTheme = 'auto'
 
 [params.homeInfoParams]
-Title = 'Hi there wave'
-Content = 'Can be Info, links, about...'
+Title = 'Freestyle Libre 🇺🇦'
+Content = 'Система моніторингу рівня глюкози крові Фрістайл Лібре (FreeStyle Libre) дозволяє максимально ефективно контролювати рівень глюкози без болю та ускладнень.'
 
 [[menu.main]]
 identifier = "categories"
