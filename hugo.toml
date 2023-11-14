@@ -1,6 +1,6 @@
 baseURL = 'https://freestyle-libre.pp.ua/'
 languageCode = 'uk'
-title = 'FL Site 🇺🇦'
+title = 'Freestyle Libre 🇺🇦'
 theme = 'PaperMod'
 publishDir = 'docs'
 
